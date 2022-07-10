@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links
-- Leaflet Map https://digitalcarleton.github.io/leaflet-storymaps-with-google-sheets/
+- Leaflet Map [https://digitalcarleton.github.io/leaflet-storymaps-with-google-sheets-2022/](https://digitalcarleton.github.io/leaflet-storymaps-with-google-sheets-2022/)
 - Google Sheets template https://docs.google.com/spreadsheets/d/1IQk1lKDAV-K_ukLAzro37ROqyxqEHxFrD-5j431eh0E/edit#gid=0
 
 ## Create Your Own
